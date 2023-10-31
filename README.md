@@ -5,3 +5,5 @@
 [aHref](https://ahrefs.com/)
 
 [SEO Quake](https://www.seoquake.com/index.html)
+
+[The Ultimate Guide to High Performance WordPress](https://www.freecodecamp.org/news/the-ultimate-guide-to-high-performance-wordpress/)
